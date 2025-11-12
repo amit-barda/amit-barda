@@ -17,9 +17,6 @@ Advanced **Kubernetes** deployments, **Proxmox API integration**, and **disaster
 💬 **Ask me about:**<br>
 Infrastructure automation, virtualization (Proxmox / VMware), system hardening, and DevOps career paths.<br><br>
 
-⚡ **Fun fact:**<br>
-I combine my love for tech with creativity — I also run an Etsy store called **BoundBloomsArt**, where I design handmade vases and home décor.
-
 ---
 
 ## 🌐 Socials:
